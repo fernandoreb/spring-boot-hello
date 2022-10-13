@@ -1,0 +1,15 @@
+target/
+*.iml
+*.log
+*.class
+tmp/
+.idea/
+.openshiftio
+.settings/
+.classpath
+.project
+.DS_Store
+bower_components/
+node_modules/
+/.apt_generated/
+/.apt_generated_tests/
